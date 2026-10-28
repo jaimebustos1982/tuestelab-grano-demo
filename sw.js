@@ -1,6 +1,6 @@
 /* Service worker de TuesteLab Grano (demo).
    Al publicar una nueva versión, suba VERSION (y la de config.js) para que los equipos instalados se actualicen. */
-const VERSION = "1.0.1";
+const VERSION = "1.0.2";
 const CACHE = "tuestelab-grano-demo-" + VERSION;
 const FONTS = "tuestelab-grano-fuentes";
 const CORE = [
